@@ -1,3 +1,5 @@
+#define _GNU_SOURCE /* nftw */
+
 #include <stdio.h>
 #include <ctype.h>
 #include <ftw.h>
